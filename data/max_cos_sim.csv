@@ -1,0 +1,601 @@
+,subjectGS2,verbGS2,objectGS2,sentenceGS2,maximumCosineSimilarity
+0,sensor,usesMethod,pv system,sensor usesMethod pv system,0.8331541056312375
+1,machine learning,usesTask,event detection event,machine learning usesTask event detection event,0.8122893066517821
+2,machine learning,usesTask,network attack,machine learning usesTask network attack,0.8755421220613132
+3,network security,usesMethod,multiagent system,network security usesMethod multiagent system,0.8551297407140949
+4,multiagent system,usesTask,obstacle avoidance,multiagent system usesTask obstacle avoidance,1.0000000000000002
+5,action recognition,usesMethod,language model,action recognition usesMethod language model,0.8130616855715055
+6,neural network,usesMaterial,structured set of data,neural network usesMaterial structured set of data,0.8890176547597747
+7,neural network,usesTask,nlp task,neural network usesTask nlp task,1.0
+8,neural network,usesMaterial,library,neural network usesMaterial library,0.8687843688580551
+9,wearable technology,usesMethod,user interface,wearable technology usesMethod user interface,0.8904592429848578
+10,action recognition,usesTask,feature extraction,action recognition usesTask feature extraction,0.8818475735448197
+11,autonomous vehicle,usesTask,vehicle navigation,autonomous vehicle usesTask vehicle navigation,0.917206440215671
+12,face detection,usesMaterial,web page,face detection usesMaterial web page,0.8299190057436694
+13,module module,usesMethod,evolutionary algorithm,module module usesMethod evolutionary algorithm,0.9034887545925167
+14,transmission assembly,usesMethod,neural network,transmission assembly usesMethod neural network,0.7241682918537948
+15,tracking system,usesMaterial,keyboard,tracking system usesMaterial keyboard,0.7773944411732695
+16,deep learning,usesMaterial,hyperspectral data,deep learning usesMaterial hyperspectral data,0.8406094108069263
+17,cylinder a,usesMethod,neural network,cylinder a usesMethod neural network,0.6963639404116275
+18,image analysis,usesTask,parallel computation,image analysis usesTask parallel computation,0.878979199771768
+19,machine learning,usesMaterial,sensitive information data,machine learning usesMaterial sensitive information data,0.7961266815369472
+20,image analysis,usesMaterial,ecg signal,image analysis usesMaterial ecg signal,0.8130261275214296
+21,computational complexity,usesMethod,game theory,computational complexity usesMethod game theory,0.8948303730447289
+22,machine learning,usesMaterial,multimedia content,machine learning usesMaterial multimedia content,0.7915483591259049
+23,gearbox d,usesMethod,acquisition device,gearbox d usesMethod acquisition device,0.8318665764923993
+24,face detection,usesMethod,ensemble learning,face detection usesMethod ensemble learning,0.8449973759180156
+25,face detection,usesMaterial,satellite photo image,face detection usesMaterial satellite photo image,0.8405326240230399
+26,wearable technology,usesTask,verification,wearable technology usesTask verification,0.8985674608732945
+27,action recognition,usesMaterial,handwritten digit recognition,action recognition usesMaterial handwritten digit recognition,0.8018242708008761
+28,graphics processing unit,usesMaterial,human pose,graphics processing unit usesMaterial human pose,0.6914765238167898
+29,power switch,usesMethod,sensor,power switch usesMethod sensor,0.8060220343850826
+30,generative model,usesMethod,evolutionary algorithm,generative model usesMethod evolutionary algorithm,0.7895077833810614
+31,sentiment analysis,usesMaterial,matlab,sentiment analysis usesMaterial matlab,0.7782546158965207
+32,graphics processing unit,usesMethod,gaussian mixture model,graphics processing unit usesMethod gaussian mixture model,0.7837269716149406
+33,wearable technology,usesTask,image enhancement,wearable technology usesTask image enhancement,0.8432067205722282
+34,sensor,usesTask,validation,sensor usesTask validation,1.0000000000000002
+35,packet loss,usesMethod,acquisition device,packet loss usesMethod acquisition device,0.8021577013045279
+36,multiagent system,usesMaterial,incomplete information,multiagent system usesMaterial incomplete information,0.7396020817371688
+37,image analysis,usesMaterial,face photo image,image analysis usesMaterial face photo image,0.8863070659642444
+38,deep learning,usesTask,computer vision problem,deep learning usesTask computer vision problem,0.9084612519391564
+39,sensor,usesMethod,alarm module 2,sensor usesMethod alarm module 2,0.9330978206023061
+40,sentiment analysis,usesMethod,machine learning machine learning model,sentiment analysis usesMethod machine learning machine learning model,0.9531848235171699
+41,data compression,usesMaterial,video image frame,data compression usesMaterial video image frame,0.9071625165468301
+42,action recognition,usesMaterial,labeled data,action recognition usesMaterial labeled data,0.840594354865421
+43,purchase,usesMethod,wearable technology,purchase usesMethod wearable technology,0.8308653187890104
+44,evolutionary algorithm,usesTask,ontology matching,evolutionary algorithm usesTask ontology matching,0.7718609014360178
+45,image analysis,usesMethod,pre processing procedure,image analysis usesMethod pre processing procedure,0.8701558688139474
+46,neural network,usesMaterial,vocabulary,neural network usesMaterial vocabulary,0.8980664118693812
+47,neural network,usesTask,autonomous system,neural network usesTask autonomous system,0.8687020405245867
+48,artificial intelligence,usesMaterial,internet,artificial intelligence usesMaterial internet,0.7433078301417173
+49,data compression,usesMethod,co processor,data compression usesMethod co processor,0.7863000353828092
+50,game theory,usesTask,power control problem,game theory usesTask power control problem,0.8443801361253787
+51,access control,usesTask,image analysis,access control usesTask image analysis,0.8126845695252902
+52,acquisition device,usesMethod,set top box,acquisition device usesMethod set top box,0.7613926081655034
+53,sentiment analysis,usesMethod,clustering methodology,sentiment analysis usesMethod clustering methodology,0.9798309820385415
+54,decision support system,usesMaterial,data collection data,decision support system usesMaterial data collection data,0.8364638233489168
+55,face detection,usesMethod,logistic regression,face detection usesMethod logistic regression,0.8090883296112175
+56,wearable technology,usesTask,pattern recognition,wearable technology usesTask pattern recognition,0.856328879206413
+57,wearable technology,usesTask,usability evaluation,wearable technology usesTask usability evaluation,0.809938979383272
+58,artificial intelligence,usesMaterial,library,artificial intelligence usesMaterial library,0.7305637332183897
+59,action recognition,usesMethod,markov process,action recognition usesMethod markov process,0.9642961344882435
+60,sentiment classification,usesTask,sentiment analysis,sentiment classification usesTask sentiment analysis,1.0000000000000002
+61,control based scheme,usesTask,autonomous vehicle,control based scheme usesTask autonomous vehicle,0.8258715588398784
+62,decision support system,usesMaterial,training datasets,decision support system usesMaterial training datasets,0.7743022572956889
+63,collaborative filtering,usesMethod,decision support system,collaborative filtering usesMethod decision support system,0.8920520466654911
+64,evolutionary algorithm,usesMaterial,portable device,evolutionary algorithm usesMaterial portable device,0.7800679674612014
+65,evolutionary algorithm,usesTask,data analytics,evolutionary algorithm usesTask data analytics,0.9109283415436863
+66,pattern recognition,usesMethod,metaheuristics,pattern recognition usesMethod metaheuristics,0.8058715374081606
+67,artificial intelligence,usesMethod,semantic information,artificial intelligence usesMethod semantic information,0.8879717781688647
+68,multiagent system,usesMaterial,integrated data,multiagent system usesMaterial integrated data,0.7605969636932145
+69,machine learning,usesTask,argumentation,machine learning usesTask argumentation,0.8509641442805668
+70,pattern recognition,usesTask,pre processing step,pattern recognition usesTask pre processing step,0.8569673565613937
+71,graphics processing unit,usesTask,image acquisition,graphics processing unit usesTask image acquisition,0.8911274652134485
+72,evolutionary algorithm,usesTask,prior work,evolutionary algorithm usesTask prior work,0.7977121047876987
+73,evolutionary algorithm,usesMaterial,high quality solution,evolutionary algorithm usesMaterial high quality solution,0.8573503625807692
+74,image analysis,usesTask,pedestrian detection,image analysis usesTask pedestrian detection,0.9060189931634673
+75,sensor,usesTask,gesture recognition,sensor usesTask gesture recognition,1.0
+76,data compression,usesMethod,information system,data compression usesMethod information system,0.8783379175397475
+77,neural network,usesMethod,shortest path,neural network usesMethod shortest path,0.9657951350507606
+78,graphics processing unit,usesTask,reconstruction,graphics processing unit usesTask reconstruction,0.9057469160354391
+79,evolutionary algorithm,usesTask,military,evolutionary algorithm usesTask military,0.7346183858399318
+80,fault detection,usesMethod,multiagent system,fault detection usesMethod multiagent system,0.8105146778037384
+81,monte carlo analysis,usesMethod,decision support system,monte carlo analysis usesMethod decision support system,0.828841213065403
+82,image analysis,usesMaterial,big data,image analysis usesMaterial big data,0.8130638940517595
+83,decision support system,usesTask,knowledge representation,decision support system usesTask knowledge representation,0.9289668476612807
+84,wavelet,usesTask,data compression,wavelet usesTask data compression,0.9999999999999998
+85,deep learning,usesMaterial,facial image image,deep learning usesMaterial facial image image,0.9175343815071977
+86,artificial intelligence,usesMaterial,facial expression,artificial intelligence usesMaterial facial expression,0.8031667262074149
+87,artificial intelligence,usesMethod,graphics processing unit,artificial intelligence usesMethod graphics processing unit,0.8046618771316717
+88,location information,usesMethod,decision support system,location information usesMethod decision support system,0.8694159228490502
+89,autonomous vehicle,usesMethod,disturbance observer,autonomous vehicle usesMethod disturbance observer,0.9065322168756234
+90,sensor,usesMethod,memory module,sensor usesMethod memory module,0.8451839443893805
+91,machine learning,usesMaterial,human behaviour,machine learning usesMaterial human behaviour,0.7803551120385126
+92,machine learning,usesMaterial,massive volume of data,machine learning usesMaterial massive volume of data,0.9229437017355122
+93,pattern recognition,usesMaterial,eeg communication signal,pattern recognition usesMaterial eeg communication signal,0.8884827356323057
+94,machine learning,usesMethod,mobile robot,machine learning usesMethod mobile robot,0.9710476294926316
+95,user experience,usesTask,pattern recognition,user experience usesTask pattern recognition,0.8887940090525626
+96,graphics processing unit,usesTask,validation,graphics processing unit usesTask validation,0.9351395547577331
+97,tracking system,usesTask,face recognition,tracking system usesTask face recognition,0.8576388741736225
+98,multiagent system,usesTask,human human social interaction,multiagent system usesTask human human social interaction,0.8053533775228388
+99,evolutionary algorithm,usesMaterial,knowledge base,evolutionary algorithm usesMaterial knowledge base,0.8915012872010566
+100,pattern recognition,usesMethod,decision support system,pattern recognition usesMethod decision support system,0.8287729006191539
+101,neural network,usesMaterial,computational resource,neural network usesMaterial computational resource,1.0000000000000002
+102,tracking system,usesTask,software project,tracking system usesTask software project,0.8346179313419948
+103,tracking system,usesMaterial,color image,tracking system usesMaterial color image,0.8802660243610098
+104,artificial intelligence,usesTask,monitoring of electronic device,artificial intelligence usesTask monitoring of electronic device,0.8290298145482503
+105,viewpoint,usesTask,face detection,viewpoint usesTask face detection,0.8800609831146392
+106,wearable technology,usesMethod,microphone array,wearable technology usesMethod microphone array,0.8201327579852876
+107,data compression,usesMaterial,telephone,data compression usesMaterial telephone,0.8031896972291666
+108,wearable technology,usesTask,activity recognition,wearable technology usesTask activity recognition,1.0
+109,face detection,usesTask,text detection,face detection usesTask text detection,0.8573800060636406
+110,decision support system,usesMaterial,big data,decision support system usesMaterial big data,1.0000000000000002
+111,decision support system,usesMaterial,python,decision support system usesMaterial python,0.7565789449870723
+112,artificial intelligence,usesTask,pattern recognition related task,artificial intelligence usesTask pattern recognition related task,0.9509012428434251
+113,machine learning,usesTask,class imbalance,machine learning usesTask class imbalance,0.8882786235100008
+114,fusion method technique,usesMethod,wearable technology,fusion method technique usesMethod wearable technology,0.7597889120959265
+115,action recognition,usesTask,image retrieval,action recognition usesTask image retrieval,0.8496754610620556
+116,sensor,usesMethod,segmentationing method,sensor usesMethod segmentationing method,0.8401454731440874
+117,elliptic curve,usesMethod,neural network,elliptic curve usesMethod neural network,0.7079325581101699
+118,mathematical analysis,usesTask,data compression,mathematical analysis usesTask data compression,0.83704057400835
+119,sentiment analysis,usesMaterial,emoticon,sentiment analysis usesMaterial emoticon,1.0000000000000002
+120,autonomous vehicle,usesMethod,servo system,autonomous vehicle usesMethod servo system,0.8721555806439092
+121,multiagent system,usesMaterial,email,multiagent system usesMaterial email,0.7613341163780365
+122,pattern recognition,usesMaterial,electricity,pattern recognition usesMaterial electricity,0.7661881136360742
+123,estimation method,usesTask,pattern recognition,estimation method usesTask pattern recognition,0.8609967771526965
+124,sentiment analysis,usesMaterial,social media data set,sentiment analysis usesMaterial social media data set,1.0000000000000002
+125,machine learning,usesTask,model checking problem,machine learning usesTask model checking problem,0.9160062025017833
+126,deep learning,usesTask,structural health monitoring,deep learning usesTask structural health monitoring,0.8719145427135315
+127,sensor,usesTask,object recognition,sensor usesTask object recognition,1.0
+128,deep learning,usesMaterial,smart phone,deep learning usesMaterial smart phone,1.0000000000000002
+129,tracking system,usesMaterial,reference image,tracking system usesMaterial reference image,0.8831197037248901
+130,game theory,usesMaterial,incomplete information,game theory usesMaterial incomplete information,0.8813180194410978
+131,neural network,usesTask,gender recognition,neural network usesTask gender recognition,0.8121243949127451
+132,packet loss,usesMethod,game theory,packet loss usesMethod game theory,0.7807639846730642
+133,multiagent system,usesTask,computational intelligence,multiagent system usesTask computational intelligence,0.8085751732588201
+134,machine learning,usesTask,disclosure issue,machine learning usesTask disclosure issue,0.82201567050185
+135,pattern recognition,usesMethod,image acquisition device,pattern recognition usesMethod image acquisition device,0.8191511472371457
+136,multiagent system,usesMaterial,domain knowledge,multiagent system usesMaterial domain knowledge,0.767524067291975
+137,sentiment analysis,usesMethod,clustering algorithm,sentiment analysis usesMethod clustering algorithm,0.9664105753074603
+138,pattern recognition,usesMaterial,video with sequence,pattern recognition usesMaterial video with sequence,0.9053082987697071
+139,tracking system,usesMethod,image acquisition unit,tracking system usesMethod image acquisition unit,0.8728271578021831
+140,acquisition device,usesMaterial,image signal,acquisition device usesMaterial image signal,0.900818533391441
+141,data compression,usesTask,data augmentation,data compression usesTask data augmentation,1.0
+142,action recognition,usesMethod,convolution neural network system,action recognition usesMethod convolution neural network system,0.9235427622566837
+143,electronic device,usesMethod,deep learning,electronic device usesMethod deep learning,0.7891258633254988
+144,touch panel panel,usesMethod,neural network,touch panel panel usesMethod neural network,0.7636237008614671
+145,game theory,usesMaterial,wireless,game theory usesMaterial wireless,1.0000000000000002
+146,conveyer belt,usesMethod,acquisition device,conveyer belt usesMethod acquisition device,0.9160464486043862
+147,outer wall,usesMethod,graphics processing unit,outer wall usesMethod graphics processing unit,0.7122893587258334
+148,game theory,usesTask,ranking,game theory usesTask ranking,0.8006313955680899
+149,wearable technology,usesMaterial,electronic document,wearable technology usesMaterial electronic document,0.770027952172047
+150,game theory,usesTask,solution,game theory usesTask solution,1.0
+151,graphics processing unit,usesTask,prototyping,graphics processing unit usesTask prototyping,0.8954023095217561
+152,multiagent system,usesMaterial,camera image,multiagent system usesMaterial camera image,0.7257958077648933
+153,image registration,usesTask,pattern recognition,image registration usesTask pattern recognition,0.8928827423032203
+154,graphics processing unit,usesMaterial,color image,graphics processing unit usesMaterial color image,0.8529618981746051
+155,decision support system,usesMaterial,geometry,decision support system usesMaterial geometry,0.7099981378330324
+156,artificial intelligence,usesMaterial,task example,artificial intelligence usesMaterial task example,0.8846018524525151
+157,support vector,usesTask,face detection,support vector usesTask face detection,0.8866046951173623
+158,validation,usesMethod,deep learning,validation usesMethod deep learning,0.8323858115874525
+159,action recognition,usesMethod,wireless sensor network,action recognition usesMethod wireless sensor network,0.8743210646155974
+160,tracking system,usesTask,motion estimation,tracking system usesTask motion estimation,0.9408386366603072
+161,game theory,usesMaterial,data centre,game theory usesMaterial data centre,0.6619303553500141
+162,action recognition,usesMethod,statistical method,action recognition usesMethod statistical method,0.8731738336552772
+163,sensor,usesMaterial,digital image,sensor usesMaterial digital image,0.9741779126567032
+164,action recognition,usesMaterial,radio,action recognition usesMaterial radio,0.881893622242188
+165,neural network,usesMaterial,robotic hand,neural network usesMaterial robotic hand,1.0000000000000002
+166,image analysis,usesTask,automatic identification,image analysis usesTask automatic identification,0.8556871391447907
+167,image analysis,usesMaterial,natural photograph,image analysis usesMaterial natural photograph,0.8475396690219625
+168,deep learning,usesMaterial,electricity,deep learning usesMaterial electricity,0.8057099034716714
+169,sentiment analysis,usesTask,information extraction,sentiment analysis usesTask information extraction,0.9254807484733001
+170,data compression,usesMethod,rfid,data compression usesMethod rfid,0.801434200603599
+171,artificial intelligence,usesTask,control issue,artificial intelligence usesTask control issue,0.8243672958239578
+172,autonomous vehicle,usesMaterial,twitter,autonomous vehicle usesMaterial twitter,0.7141862224594343
+173,text classification,usesMethod,evolutionary algorithm,text classification usesMethod evolutionary algorithm,0.9150296711378475
+174,image analysis,usesMethod,network architecture,image analysis usesMethod network architecture,0.7905363307056121
+175,autonomous vehicle,usesMaterial,vibration signal,autonomous vehicle usesMaterial vibration signal,0.719685611284031
+176,image analysis,usesMethod,semantics,image analysis usesMethod semantics,0.8095339170544956
+177,acquisition device,usesMethod,broadcast,acquisition device usesMethod broadcast,0.8416290205945632
+178,scalability,usesMethod,deep learning,scalability usesMethod deep learning,0.7796268001582639
+179,autonomous vehicle,usesMaterial,game,autonomous vehicle usesMaterial game,0.7221117428092892
+180,tracking system,usesTask,object tracking,tracking system usesTask object tracking,0.926195504336854
+181,sentiment analysis,usesMaterial,social media platform,sentiment analysis usesMaterial social media platform,0.8796487188482391
+182,face detection,usesTask,disclosure issue,face detection usesTask disclosure issue,0.8335971053611626
+183,graphics processing unit,usesMethod,pca s,graphics processing unit usesMethod pca s,0.7733787805529068
+184,decision support system,usesTask,knowledge-sharing,decision support system usesTask knowledge-sharing,0.9283079478019964
+185,anintelligent system,usesMethod,deep learning,anintelligent system usesMethod deep learning,0.8905206315605634
+186,wireless sensor network,usesMethod,wearable technology,wireless sensor network usesMethod wearable technology,0.8887696798203805
+187,image analysis,usesMethod,supervised machine learning,image analysis usesMethod supervised machine learning,0.9614604860332255
+188,touch panel panel,usesMethod,machine learning,touch panel panel usesMethod machine learning,0.752046070890219
+189,game theory,usesMethod,fpgas,game theory usesMethod fpgas,0.7547558392529188
+190,autonomous vehicle,usesMethod,user interface,autonomous vehicle usesMethod user interface,0.8750810142406475
+191,image analysis,usesMaterial,grayscale of image,image analysis usesMaterial grayscale of image,0.8241125826365252
+192,decision support system,usesMaterial,patient data,decision support system usesMaterial patient data,0.9632298990020955
+193,tracking system,usesMaterial,video signal,tracking system usesMaterial video signal,0.8260005744593869
+194,detection monitoring device,usesMethod,machine learning,detection monitoring device usesMethod machine learning,0.8874271686408556
+195,artificial intelligence,usesMethod,wireless communication module,artificial intelligence usesMethod wireless communication module,0.7811295974652884
+196,sentiment analysis,usesTask,activation,sentiment analysis usesTask activation,0.8552430103415757
+197,face detection,usesMaterial,digital image,face detection usesMaterial digital image,0.9501734909491032
+198,deep learning,usesMaterial,cellular,deep learning usesMaterial cellular,0.7765201125938366
+199,pattern recognition,usesMaterial,human motion,pattern recognition usesMaterial human motion,0.7617371206267581
+200,storage system device,usesMethod,tracking system,storage system device usesMethod tracking system,0.9048964181797384
+201,lighting device,usesMethod,tracking system,lighting device usesMethod tracking system,0.8395281368144898
+202,acquisition device,usesTask,line detection,acquisition device usesTask line detection,0.7677763217276733
+203,face detection,usesMaterial,camera image,face detection usesMaterial camera image,0.9546873298667061
+204,face detection,usesMethod,distributed system,face detection usesMethod distributed system,0.8584359100356874
+205,image analysis,usesMethod,control circuit,image analysis usesMethod control circuit,0.8311711309726537
+206,tracking system,usesMaterial,hand motion,tracking system usesMaterial hand motion,0.7999896709248699
+207,acquisition device,usesMethod,base plate,acquisition device usesMethod base plate,0.9247786291841359
+208,multiagent system,usesMethod,unmanned aircraft system,multiagent system usesMethod unmanned aircraft system,0.8247996236774104
+209,artificial intelligence,usesMaterial,user behavior,artificial intelligence usesMaterial user behavior,0.7389851790357997
+210,sentiment analysis,usesMethod,sensor,sentiment analysis usesMethod sensor,0.8484321345342976
+211,neural network,usesMaterial,data set,neural network usesMaterial data set,1.0
+212,pattern recognition,usesMaterial,ct image,pattern recognition usesMaterial ct image,0.769273067569431
+213,evolutionary algorithm,usesTask,pre processing step,evolutionary algorithm usesTask pre processing step,0.8012815147823996
+214,sensor,usesMethod,base plate,sensor usesMethod base plate,0.9117936070127307
+215,data compression,usesMethod,wireless networked device,data compression usesMethod wireless networked device,0.8776521628655994
+216,artificial intelligence,usesMethod,clustering method,artificial intelligence usesMethod clustering method,0.9350108999373984
+217,artificial intelligence,usesMaterial,university,artificial intelligence usesMaterial university,0.7061038362949358
+218,sensor,usesMethod,warning device,sensor usesMethod warning device,0.9075998740800076
+219,sentiment analysis,usesMethod,computational model,sentiment analysis usesMethod computational model,0.9093965223226311
+220,unscented kalman filter,usesTask,data compression,unscented kalman filter usesTask data compression,0.8138187472595446
+221,sensor,usesMaterial,color image,sensor usesMaterial color image,0.9594226418883129
+222,pattern recognition,usesTask,change detection,pattern recognition usesTask change detection,0.919892388824366
+223,wearable technology,usesTask,intelligent control,wearable technology usesTask intelligent control,0.7742551892412206
+224,machine learning,usesMaterial,streaming data,machine learning usesMaterial streaming data,1.0
+225,evolutionary algorithm,usesTask,real world example problem,evolutionary algorithm usesTask real world example problem,0.8763350438696206
+226,graphics processing unit,usesTask,dimensionality reduction,graphics processing unit usesTask dimensionality reduction,0.8573452591683174
+227,neural network,usesTask,ranking,neural network usesTask ranking,0.9040030777227934
+228,target tracking,usesTask,action recognition,target tracking usesTask action recognition,0.9041630255967364
+229,sentiment analysis,usesMaterial,blog,sentiment analysis usesMaterial blog,0.8920720907050916
+230,autonomous vehicle,usesTask,stochastic linear optimization problem,autonomous vehicle usesTask stochastic linear optimization problem,0.8268876040037245
+231,multiagent system,usesTask,human intervention process,multiagent system usesTask human intervention process,0.848449539240761
+232,sentiment analysis,usesMaterial,tweet,sentiment analysis usesMaterial tweet,1.0000000000000002
+233,action recognition,usesMaterial,sensor data,action recognition usesMaterial sensor data,0.922813439707509
+234,autonomous vehicle,usesMethod,topology,autonomous vehicle usesMethod topology,0.8079634776541149
+235,web browsing,usesMethod,multiagent system,web browsing usesMethod multiagent system,0.7301413086768203
+236,artificial intelligence,usesMaterial,matlab,artificial intelligence usesMaterial matlab,0.8407007807201645
+237,apparatus 1,usesTask,data compression,apparatus 1 usesTask data compression,0.9265119577080011
+238,resource allocation,usesMethod,decision support system,resource allocation usesMethod decision support system,0.8430580712035336
+239,graphics processing unit,usesMethod,matching algorithm,graphics processing unit usesMethod matching algorithm,0.9722662987517597
+240,data compression,usesMaterial,hand motion,data compression usesMaterial hand motion,0.72126209609884
+241,deep learning,usesMaterial,linguistics,deep learning usesMaterial linguistics,0.730438441155851
+242,password,usesMethod,artificial intelligence,password usesMethod artificial intelligence,0.8587037095381128
+243,acquisition device,usesMaterial,equipment,acquisition device usesMaterial equipment,0.8673474051024239
+244,action recognition,usesTask,computer vision related application,action recognition usesTask computer vision related application,0.8642664258278293
+245,user preferences concept,usesMethod,multiagent system,user preferences concept usesMethod multiagent system,0.7960634708393133
+246,data compression,usesMethod,module module,data compression usesMethod module module,0.8970254117390031
+247,text classification,usesMethod,game theory,text classification usesMethod game theory,0.8092825356483482
+248,handover,usesMethod,multiagent system,handover usesMethod multiagent system,0.7790369259211922
+249,autonomous vehicle,usesMaterial,video live broadcast stream,autonomous vehicle usesMaterial video live broadcast stream,0.7931624440748883
+250,primary user account,usesMethod,game theory,primary user account usesMethod game theory,0.7825303326207792
+251,image analysis,usesTask,radar,image analysis usesTask radar,0.8875537555521194
+252,machine learning,usesTask,data mining,machine learning usesTask data mining,1.0000000000000002
+253,tracking system,usesMaterial,digital image,tracking system usesMaterial digital image,0.9188374872698314
+254,game theory,usesTask,channel state information,game theory usesTask channel state information,0.793011543376634
+255,machine learning,usesMethod,vision system,machine learning usesMethod vision system,0.9034096822568857
+256,acquisition device,usesMethod,dsp,acquisition device usesMethod dsp,0.8560312187835777
+257,image analysis,usesMethod,unmanned aircraft system,image analysis usesMethod unmanned aircraft system,0.8791805656754627
+258,neural network,usesMethod,naive bayes,neural network usesMethod naive bayes,0.8480096407672554
+259,pattern recognition,usesTask,pedestrian detection,pattern recognition usesTask pedestrian detection,0.8883128163554784
+260,action recognition,usesMaterial,dialogue,action recognition usesMaterial dialogue,0.7695726073840341
+261,pattern recognition,usesMethod,power system a,pattern recognition usesMethod power system a,0.724430704014694
+262,acquisition device,usesTask,remote monitoring,acquisition device usesTask remote monitoring,1.0
+263,multiagent system,usesTask,tracking control,multiagent system usesTask tracking control,0.8672618749260056
+264,evaluation,usesTask,sentiment analysis,evaluation usesTask sentiment analysis,0.8810594848602394
+265,action recognition,usesMaterial,vocabulary,action recognition usesMaterial vocabulary,0.788264106969056
+266,artificial intelligence,usesMethod,computer program,artificial intelligence usesMethod computer program,0.9744304719299456
+267,deep learning,usesTask,visual object tracking,deep learning usesTask visual object tracking,0.7873690764499314
+268,transmission unit a,usesMethod,tracking system,transmission unit a usesMethod tracking system,0.8277947045744537
+269,tracking system,usesMaterial,document image,tracking system usesMaterial document image,0.8038095577573952
+270,face detection,usesMaterial,stereo camera,face detection usesMaterial stereo camera,0.8578179230054643
+271,game theory,usesMethod,module module,game theory usesMethod module module,0.7314106928071236
+272,moving mechanism move,usesMethod,machine learning,moving mechanism move usesMethod machine learning,0.7184974024379008
+273,acquisition device,usesTask,storage storage bin,acquisition device usesTask storage storage bin,0.7657490428977496
+274,deep learning,usesTask,automatic image annotation,deep learning usesTask automatic image annotation,0.8769500680071164
+275,image analysis,usesTask,pattern recognition,image analysis usesTask pattern recognition,1.0000000000000002
+276,deep learning,usesTask,computer vision society,deep learning usesTask computer vision society,0.9089888270286924
+277,block chain chain,usesMethod,graphics processing unit,block chain chain usesMethod graphics processing unit,0.6689495082687504
+278,sensor,usesMethod,inverter,sensor usesMethod inverter,0.9780392807424386
+279,action recognition,usesMaterial,natural photograph,action recognition usesMaterial natural photograph,0.8857862868298582
+280,target detection,usesMethod,tracking system,target detection usesMethod tracking system,0.9329392153593866
+281,image analysis,usesMethod,k-nearest neighbor,image analysis usesMethod k-nearest neighbor,0.866216065764991
+282,image analysis,usesMaterial,ct image,image analysis usesMaterial ct image,0.865671113920818
+283,artificial intelligence,usesTask,knowledge acquisition,artificial intelligence usesTask knowledge acquisition,0.8759410331790021
+284,graphics processing unit,usesMaterial,point cloud,graphics processing unit usesMaterial point cloud,0.7923756600885891
+285,mainboard on,usesMethod,machine learning,mainboard on usesMethod machine learning,0.7405531295894252
+286,graphics processing unit,usesTask,image fusion,graphics processing unit usesTask image fusion,0.9033709892093176
+287,machine learning,usesTask,big data processing,machine learning usesTask big data processing,0.8538114208220587
+288,image analysis,usesMaterial,video camera,image analysis usesMaterial video camera,0.9246961665141255
+289,spectrum sharing,usesMethod,artificial intelligence,spectrum sharing usesMethod artificial intelligence,0.7433888217348098
+290,data compression,usesTask,energy constraint,data compression usesTask energy constraint,0.8372251963985624
+291,artificial intelligence,usesMaterial,data stream,artificial intelligence usesMaterial data stream,0.8032204535076696
+292,image analysis,usesMethod,k k mean,image analysis usesMethod k k mean,0.8842587420924896
+293,neural network,usesTask,variable selection,neural network usesTask variable selection,1.0000000000000002
+294,machine learning,usesTask,user activity,machine learning usesTask user activity,0.9999999999999998
+295,tracking system,usesTask,automatic tracking,tracking system usesTask automatic tracking,0.876875524593981
+296,support vector,usesMethod,acquisition device,support vector usesMethod acquisition device,0.7292329047758946
+297,web server,usesMethod,evolutionary algorithm,web server usesMethod evolutionary algorithm,0.7749456313924652
+298,pattern recognition,usesMethod,multiple regression,pattern recognition usesMethod multiple regression,0.806915322892885
+299,cross beam a,usesMethod,sensor,cross beam a usesMethod sensor,0.8017167801803067
+300,sensor,usesTask,image acquisition,sensor usesTask image acquisition,0.9043953831798803
+301,support vector,usesTask,sentiment analysis,support vector usesTask sentiment analysis,0.9673405042512676
+302,artificial intelligence,usesTask,intelligent fault diagnosis,artificial intelligence usesTask intelligent fault diagnosis,0.8909561012558747
+303,wearable technology,usesMethod,wireless transceiver,wearable technology usesMethod wireless transceiver,0.9203557136790672
+304,wearable technology,usesMethod,sensor module 1,wearable technology usesMethod sensor module 1,0.9447982576443799
+305,acquisition device,usesTask,positioning information,acquisition device usesTask positioning information,0.8440165563518829
+306,image acquisition device,usesTask,face detection,image acquisition device usesTask face detection,0.8720409837659066
+307,acquisition device,usesMaterial,high definition camera,acquisition device usesMaterial high definition camera,0.826742927708637
+308,data compression,usesMethod,processing device system,data compression usesMethod processing device system,0.8739344333580037
+309,face detection,usesMethod,deep learning algorithm,face detection usesMethod deep learning algorithm,0.9482059269575713
+310,sensor,usesMaterial,rule base,sensor usesMaterial rule base,0.6859545873912791
+311,pattern recognition,usesMethod,one,pattern recognition usesMethod one,0.8440538261873723
+312,game theory,usesMaterial,electricity,game theory usesMaterial electricity,0.8430737074887024
+313,game theory,usesMaterial,social social medium,game theory usesMaterial social social medium,0.7976075535200222
+314,graphics processing unit,usesMaterial,knowledge base,graphics processing unit usesMaterial knowledge base,0.7777884372322235
+315,graphics processing unit,usesMethod,factorization,graphics processing unit usesMethod factorization,0.974067569435266
+316,face detection,usesMethod,control method,face detection usesMethod control method,0.9195981114561282
+317,deep learning,usesTask,image quality assessment,deep learning usesTask image quality assessment,0.8419950658030673
+318,data compression,usesMaterial,compressed data set,data compression usesMaterial compressed data set,0.9768189537728004
+319,image analysis,usesMaterial,digital image,image analysis usesMaterial digital image,0.9029540662737942
+320,remote controller,usesMethod,acquisition device,remote controller usesMethod acquisition device,0.9525691249477494
+321,neural network,usesMethod,state space,neural network usesMethod state space,0.7652734910244021
+322,pattern recognition,usesMaterial,gait,pattern recognition usesMaterial gait,0.8587409438312331
+323,acquisition device,usesMaterial,operation data,acquisition device usesMaterial operation data,0.8710756268524267
+324,acquisition device,usesTask,logistics management,acquisition device usesTask logistics management,0.8493182270678333
+325,artificial intelligence,usesMaterial,engineer,artificial intelligence usesMaterial engineer,0.7334589941637242
+326,sentiment analysis,usesMaterial,anannotated data set,sentiment analysis usesMaterial anannotated data set,0.8054660451298381
+327,forecasts model,usesTask,sentiment analysis,forecasts model usesTask sentiment analysis,0.8608482116702256
+328,artificial intelligence,usesMaterial,data source data,artificial intelligence usesMaterial data source data,0.7483746079442644
+329,machine learning,usesTask,gender classification,machine learning usesTask gender classification,0.8625788162936655
+330,tracking system,usesMaterial,point cloud,tracking system usesMaterial point cloud,0.7734523024346847
+331,acquisition device,usesTask,data transmission,acquisition device usesTask data transmission,0.8701417134217089
+332,game theory,usesTask,access control,game theory usesTask access control,0.792742895862796
+333,game theory,usesMaterial,mobile device,game theory usesMaterial mobile device,0.8316075286914643
+334,wearable technology,usesMaterial,authentication data,wearable technology usesMaterial authentication data,0.8431000947681959
+335,embedded system,usesTask,data compression,embedded system usesTask data compression,1.0
+336,wearable technology,usesTask,emotion recognition,wearable technology usesTask emotion recognition,0.8656350098162352
+337,evolutionary algorithm,usesTask,data mining and related task,evolutionary algorithm usesTask data mining and related task,0.9761379783201892
+338,image analysis,usesMaterial,facial image image,image analysis usesMaterial facial image image,0.8539253821170125
+339,acquisition device,usesMaterial,monitoring data,acquisition device usesMaterial monitoring data,0.8342393802337705
+340,autonomous vehicle,usesMaterial,noises signal,autonomous vehicle usesMaterial noises signal,0.6550678656995528
+341,deep learning,usesMaterial,art,deep learning usesMaterial art,0.8152630404900996
+342,machine learning method,usesMethod,decision support system,machine learning method usesMethod decision support system,0.9776769678867436
+343,data compression,usesMaterial,encrypted data,data compression usesMaterial encrypted data,0.8225920237606575
+344,autonomous vehicle,usesMaterial,radio,autonomous vehicle usesMaterial radio,0.8530823177023189
+345,graphics processing unit,usesTask,motion estimation,graphics processing unit usesTask motion estimation,0.8443183439957316
+346,face detection,usesMaterial,rendering image,face detection usesMaterial rendering image,0.8939247614246816
+347,gesture 1,usesTask,face detection,gesture 1 usesTask face detection,0.8267342065069256
+348,user experience,usesMethod,neural network,user experience usesMethod neural network,0.84865488859292
+349,image display,usesMethod,graphics processing unit,image display usesMethod graphics processing unit,0.9041511075451321
+350,tracking system,usesTask,autonomous driving,tracking system usesTask autonomous driving,0.8509226483655288
+351,sentiment analysis,usesMethod,semantic distance,sentiment analysis usesMethod semantic distance,0.8077437752754106
+352,decision support system,usesTask,outlier detection,decision support system usesTask outlier detection,0.8904287458118346
+353,heuristic algorithm,usesMethod,deep learning,heuristic algorithm usesMethod deep learning,0.8507109794289345
+354,control parameter value,usesMethod,wearable technology,control parameter value usesMethod wearable technology,0.8171527946410763
+355,tracking system,usesTask,computer vision,tracking system usesTask computer vision,1.0000000000000002
+356,autonomous vehicle,usesTask,traffic congestion,autonomous vehicle usesTask traffic congestion,0.8185043481363641
+357,data compression,usesTask,face detection,data compression usesTask face detection,0.8332292037627489
+358,sensor,usesTask,intelligent control,sensor usesTask intelligent control,0.9315629668275104
+359,neural network,usesTask,ranging,neural network usesTask ranging,0.8979728739216273
+360,neural network,usesMethod,decoder based technique,neural network usesMethod decoder based technique,0.9703908977076836
+361,wearable technology,usesMaterial,medical image,wearable technology usesMaterial medical image,0.8413014020740102
+362,artificial intelligence,usesMethod,packet scheduling,artificial intelligence usesMethod packet scheduling,0.794782399756129
+363,sensor,usesMaterial,video signal,sensor usesMaterial video signal,0.9323351482114118
+364,machine learning,usesMaterial,hand gesture,machine learning usesMaterial hand gesture,1.0
+365,graphics processing unit,usesMethod,acquisition device,graphics processing unit usesMethod acquisition device,0.8021965757533349
+366,classification task,usesTask,action recognition,classification task usesTask action recognition,0.8729192233239869
+367,sensor,usesMaterial,motion data,sensor usesMaterial motion data,1.0000000000000002
+368,acquisition device,usesTask,internet of thing,acquisition device usesTask internet of thing,0.9273328969193273
+369,electronic device equipment,usesMethod,artificial intelligence,electronic device equipment usesMethod artificial intelligence,0.7908736058232404
+370,image analysis,usesMaterial,ultrasound image,image analysis usesMaterial ultrasound image,0.8676012101771473
+371,autonomous vehicle,usesMethod,robotic arm,autonomous vehicle usesMethod robotic arm,0.8015443287329267
+372,artificial intelligence,usesTask,parallel computation,artificial intelligence usesTask parallel computation,0.8820268328764823
+373,tracking system,usesMethod,broadcast,tracking system usesMethod broadcast,0.7746215992904821
+374,data compression,usesMaterial,noises signal,data compression usesMaterial noises signal,0.8620612661170607
+375,mobile node,usesMethod,multiagent system,mobile node usesMethod multiagent system,0.7999255295368399
+376,autonomous vehicle,usesMaterial,sensitive information data,autonomous vehicle usesMaterial sensitive information data,0.829338643043996
+377,action recognition,usesMethod,principle component analysis,action recognition usesMethod principle component analysis,0.8138272114731956
+378,wearable technology,usesMaterial,accelerometer data,wearable technology usesMaterial accelerometer data,0.8783085923411822
+379,multiagent system,usesTask,clinical decision support system,multiagent system usesTask clinical decision support system,0.8440913804447089
+380,autonomous vehicle,usesTask,motor,autonomous vehicle usesTask motor,0.8588011084580759
+381,evolutionary algorithm,usesMaterial,mobile device,evolutionary algorithm usesMaterial mobile device,0.7890579152646159
+382,object tracking,usesTask,action recognition,object tracking usesTask action recognition,0.901500010857256
+383,artificial intelligence,usesTask,control precision of operation,artificial intelligence usesTask control precision of operation,0.8080165356919415
+384,autonomous vehicle,usesMethod,power control,autonomous vehicle usesMethod power control,0.7958756600130978
+385,game theory,usesMaterial,emotion,game theory usesMaterial emotion,0.866153378536236
+386,wsn,usesMethod,evolutionary algorithm,wsn usesMethod evolutionary algorithm,0.8810130967629162
+387,human computer interaction,usesTask,pattern recognition,human computer interaction usesTask pattern recognition,0.878035742115827
+388,image analysis,usesTask,enhancement,image analysis usesTask enhancement,0.9768084087521403
+389,graphics processing unit,usesMaterial,high resolution image,graphics processing unit usesMaterial high resolution image,0.8357108198678264
+390,decision support system,usesMaterial,user behavior,decision support system usesMaterial user behavior,0.7990489206218856
+391,face detection,usesMethod,hybrid equivalent model,face detection usesMethod hybrid equivalent model,0.9010213721238823
+392,face detection,usesMethod,one,face detection usesMethod one,0.9178598924698597
+393,sensor,usesMaterial,dialogue,sensor usesMaterial dialogue,0.709784701400217
+394,support supporting body,usesMethod,neural network,support supporting body usesMethod neural network,0.6837983607536909
+395,acquisition device,usesTask,recording medium recording,acquisition device usesTask recording medium recording,0.8483907906828204
+396,classification method approach,usesMethod,decision support system,classification method approach usesMethod decision support system,0.8908372099934023
+397,face detection,usesMaterial,encoding example,face detection usesMaterial encoding example,0.8337840573039906
+398,wearable technology,usesMaterial,hand gesture,wearable technology usesMaterial hand gesture,0.8657231239864542
+399,multiagent system,usesMaterial,knowledge,multiagent system usesMaterial knowledge,0.774612124657548
+400,acquisition device,usesMaterial,cellular phone,acquisition device usesMaterial cellular phone,0.8721705773642122
+401,pattern recognition,usesMaterial,color image,pattern recognition usesMaterial color image,0.8211257181126574
+402,sensor,usesTask,autonomous vehicle,sensor usesTask autonomous vehicle,1.0
+403,sensor,usesMaterial,image sequence,sensor usesMaterial image sequence,0.8311261322476564
+404,wearable technology,usesMaterial,digital image,wearable technology usesMaterial digital image,0.781353164131137
+405,tracking system,usesMaterial,hand gesture,tracking system usesMaterial hand gesture,0.8121181219193075
+406,action recognition,usesTask,edge detection,action recognition usesTask edge detection,0.8987513419486767
+407,game theory,usesTask,situation awareness,game theory usesTask situation awareness,0.8052670607691071
+408,decision support system,usesMaterial,personal computer,decision support system usesMaterial personal computer,0.7985636841261051
+409,bp neural network,usesTask,sentiment analysis,bp neural network usesTask sentiment analysis,0.9075827697025176
+410,data compression,usesMaterial,flash,data compression usesMaterial flash,0.7699507512079689
+411,game theory,usesMaterial,renewable energy,game theory usesMaterial renewable energy,0.6842952686468455
+412,optimal control,usesMethod,evolutionary algorithm,optimal control usesMethod evolutionary algorithm,0.9236818735735699
+413,speech recognition,usesTask,image analysis,speech recognition usesTask image analysis,0.824375755058689
+414,neural network,usesMaterial,digital information data,neural network usesMaterial digital information data,0.8671613775203304
+415,spectral efficiency,usesMethod,machine learning,spectral efficiency usesMethod machine learning,0.7670331697682223
+416,maximum likelihood estimation,usesMethod,machine learning,maximum likelihood estimation usesMethod machine learning,0.9749891887707071
+417,game theory,usesTask,demand response,game theory usesTask demand response,0.7597911855889529
+418,face detection,usesMethod,singular value decomposition,face detection usesMethod singular value decomposition,0.9152075532039342
+419,multiagent system,usesTask,autonomous underwater vehicle ( auv ),multiagent system usesTask autonomous underwater vehicle ( auv ),0.8675932511972129
+420,fuzzy logic,usesMethod,decision support system,fuzzy logic usesMethod decision support system,0.979917499226662
+421,autonomous vehicle,usesMethod,sensing device,autonomous vehicle usesMethod sensing device,0.9078445357457795
+422,acquisition device,usesMaterial,bluetooth,acquisition device usesMaterial bluetooth,0.8803375542376282
+423,data compression,usesTask,iris recognition,data compression usesTask iris recognition,0.8083273275186514
+424,face detection,usesTask,image fusion,face detection usesTask image fusion,0.8542775324964732
+425,neural network,usesTask,learning system 1,neural network usesTask learning system 1,0.8646234691302375
+426,game theory,usesMaterial,radio,game theory usesMaterial radio,0.9611603517112339
+427,machine learning,usesMaterial,natural language text,machine learning usesMaterial natural language text,0.8607414132200092
+428,graphics processing unit,usesMaterial,keyboard,graphics processing unit usesMaterial keyboard,0.7864961702175847
+429,data compression,usesMaterial,image sequence,data compression usesMaterial image sequence,0.8672006537671461
+430,graphics processing unit,usesTask,image analysis,graphics processing unit usesTask image analysis,0.8893553755433318
+431,face detection,usesMaterial,mobile device,face detection usesMaterial mobile device,1.0000000000000002
+432,neural network,usesTask,magnetic resonance imaging,neural network usesTask magnetic resonance imaging,0.83434762180161
+433,deep learning,usesTask,nlp task,deep learning usesTask nlp task,0.9208986347194211
+434,tracking system,usesMethod,clustering algorithm,tracking system usesMethod clustering algorithm,0.9344954717735969
+435,data compression,usesMethod,central processor,data compression usesMethod central processor,0.8514356308458605
+436,pattern recognition,usesMaterial,internet,pattern recognition usesMaterial internet,0.7552799797531723
+437,decision support system,usesTask,anomaly detection,decision support system usesTask anomaly detection,0.9015846979330697
+438,recommendation methodology,usesTask,sentiment analysis,recommendation methodology usesTask sentiment analysis,0.9400328416174298
+439,image analysis,usesMethod,computer program,image analysis usesMethod computer program,0.9161377636622512
+440,graphics processing unit,usesTask,verification,graphics processing unit usesTask verification,1.0000000000000002
+441,graphics processing unit,usesMaterial,medical image,graphics processing unit usesMaterial medical image,0.8635923544178075
+442,sensor,usesTask,pattern recognition,sensor usesTask pattern recognition,0.9158316020670139
+443,data compression,usesMethod,gaussian mixture model,data compression usesMethod gaussian mixture model,0.7566359327982385
+444,decision support system,usesTask,biomedical science research,decision support system usesTask biomedical science research,0.7854246910437135
+445,machine learning,usesMaterial,missing data,machine learning usesMaterial missing data,0.790385269443379
+446,mobile platform,usesTask,image analysis,mobile platform usesTask image analysis,0.8689412542794176
+447,multiagent system,usesMethod,dynamic programming,multiagent system usesMethod dynamic programming,0.8669781089189058
+448,image analysis,usesMethod,rough set theory,image analysis usesMethod rough set theory,0.9106141601015652
+449,face detection,usesTask,terminal,face detection usesTask terminal,0.8763960991245924
+450,machine learning,usesMethod,efficient algorithm,machine learning usesMethod efficient algorithm,0.8306111276521071
+451,decision support system,usesTask,data warehousing,decision support system usesTask data warehousing,0.9999999999999999
+452,gps,usesMethod,game theory,gps usesMethod game theory,0.6907630942257618
+453,predictions accuracy,usesMethod,game theory,predictions accuracy usesMethod game theory,0.7136472935848764
+454,machine learning,usesMaterial,eeg communication signal,machine learning usesMaterial eeg communication signal,0.9589220178406951
+455,pattern recognition,usesMethod,semantic distance,pattern recognition usesMethod semantic distance,0.8366200195936718
+456,sentiment analysis,usesMethod,search engine,sentiment analysis usesMethod search engine,0.8365293154463328
+457,sentiment analysis,usesMethod,control method,sentiment analysis usesMethod control method,0.8271443989620855
+458,multiagent system,usesTask,search task,multiagent system usesTask search task,0.8447792257488214
+459,evolutionary algorithm,usesMethod,genetic selection,evolutionary algorithm usesMethod genetic selection,0.909112113831684
+460,wearable technology,usesMaterial,acceleration data,wearable technology usesMaterial acceleration data,0.9623143904805077
+461,decision support system,usesTask,database and information system,decision support system usesTask database and information system,1.0000000000000002
+462,artificial intelligence,usesMethod,nonlinear system,artificial intelligence usesMethod nonlinear system,0.7964834803097995
+463,web server,usesMethod,deep learning,web server usesMethod deep learning,0.8166820096791182
+464,door frame a,usesMethod,sensor,door frame a usesMethod sensor,0.8640889577690575
+465,neural network,usesMaterial,abstraction example,neural network usesMaterial abstraction example,0.8780676150579163
+466,pattern recognition,usesMaterial,face photo image,pattern recognition usesMaterial face photo image,0.9016958051011018
+467,acquisition device,usesMaterial,first photograph image,acquisition device usesMaterial first photograph image,0.9281458060014298
+468,deep learning,usesMaterial,distorted image,deep learning usesMaterial distorted image,0.7108669680108266
+469,sensor,usesTask,ranging,sensor usesTask ranging,0.9999999999999999
+470,sentiment analysis,usesTask,solution,sentiment analysis usesTask solution,0.9999999999999999
+471,v2v,usesTask,autonomous vehicle,v2v usesTask autonomous vehicle,0.7701380196930332
+472,sentiment analysis,usesMethod,control system,sentiment analysis usesMethod control system,0.7797682525169305
+473,artificial intelligence,usesTask,knowledge management,artificial intelligence usesTask knowledge management,0.8346790015654337
+474,decision support system,usesTask,computational intelligence,decision support system usesTask computational intelligence,0.9999999999999999
+475,deep learning,usesTask,training phase,deep learning usesTask training phase,0.8454926471414326
+476,pattern recognition,usesMethod,language model,pattern recognition usesMethod language model,0.897218613773426
+477,face detection,usesMethod,optical flow,face detection usesMethod optical flow,0.8304850579700545
+478,sensor,usesMaterial,high resolution image,sensor usesMaterial high resolution image,0.9593627225089523
+479,wearable technology,usesMaterial,motion data,wearable technology usesMaterial motion data,1.0
+480,multiagent system,usesTask,estimation measurement problem,multiagent system usesTask estimation measurement problem,0.8356155470983345
+481,graphics processing unit,usesTask,character recognition,graphics processing unit usesTask character recognition,0.8509797625349764
+482,sentiment analysis,usesMaterial,medical data,sentiment analysis usesMaterial medical data,0.8075665656637973
+483,autonomous vehicle,usesTask,ranging,autonomous vehicle usesTask ranging,0.8371730016452232
+484,game theory,usesTask,interference,game theory usesTask interference,0.7891905101119868
+485,action recognition,usesMethod,semantic information,action recognition usesMethod semantic information,0.9228029443652935
+486,sentiment analysis,usesMethod,hybrid algorithm,sentiment analysis usesMethod hybrid algorithm,0.9388222423919038
+487,autonomous vehicle,usesMethod,sensor node,autonomous vehicle usesMethod sensor node,0.8745831835806875
+488,pattern recognition,usesMaterial,electrocardiogram,pattern recognition usesMaterial electrocardiogram,0.862442682081473
+489,machine learning,usesMaterial,dynamic environment,machine learning usesMaterial dynamic environment,0.7557987329844411
+490,game theory,usesTask,embedded system,game theory usesTask embedded system,0.8153323068736291
+491,wearable technology,usesTask,smart home,wearable technology usesTask smart home,0.7775116971340811
+492,data compression,usesMethod,communications device,data compression usesMethod communications device,0.8207161876326874
+493,action recognition,usesTask,computer vision and other field,action recognition usesTask computer vision and other field,0.8638723959935335
+494,radial basis function,usesMethod,graphics processing unit,radial basis function usesMethod graphics processing unit,0.8399100912626168
+495,graphics processing unit,usesMaterial,rule base,graphics processing unit usesMaterial rule base,0.751553666966748
+496,sensor,usesMaterial,knowledge base,sensor usesMaterial knowledge base,0.8102765608625855
+497,target detection,usesTask,pattern recognition,target detection usesTask pattern recognition,0.9427266382415022
+498,tracking system,usesTask,intelligent control,tracking system usesTask intelligent control,0.8649377216463703
+499,action recognition,usesMethod,deep neural convolutional network,action recognition usesMethod deep neural convolutional network,0.9340630384795787
+500,action recognition,usesMaterial,training datasets,action recognition usesMaterial training datasets,0.8835102976189528
+501,autonomous vehicle,usesMethod,map-reduce,autonomous vehicle usesMethod map-reduce,0.7349340659984296
+502,segmentationing method,usesTask,face detection,segmentationing method usesTask face detection,0.8647259611248396
+503,action recognition,usesTask,sentiment analysis,action recognition usesTask sentiment analysis,0.8338915834803392
+504,face detection,usesMethod,machine learning technique s,face detection usesMethod machine learning technique s,0.9289544234014229
+505,artificial intelligence,usesTask,robot,artificial intelligence usesTask robot,0.8930975053500237
+506,action recognition,usesMethod,numerical model,action recognition usesMethod numerical model,0.818668009182567
+507,deep learning,usesTask,source separation,deep learning usesTask source separation,0.7493541164924972
+508,sentiment analysis,usesMaterial,social social medium,sentiment analysis usesMaterial social social medium,1.0
+509,multiagent system,usesMaterial,healthcare data,multiagent system usesMaterial healthcare data,0.6173610427112532
+510,autonomous vehicle,usesTask,image analysis,autonomous vehicle usesTask image analysis,0.8266246797190927
+511,multiagent system,usesMethod,wsns,multiagent system usesMethod wsns,0.7243783202854576
+512,action recognition,usesMaterial,imagenet,action recognition usesMaterial imagenet,0.8232790558754549
+513,sensor,usesMaterial,robotic hand,sensor usesMaterial robotic hand,0.9999999999999999
+514,bp neural network,usesTask,pattern recognition,bp neural network usesTask pattern recognition,1.0
+515,action recognition,usesMethod,k-nearest neighbor,action recognition usesMethod k-nearest neighbor,0.7643524477217007
+516,evolutionary algorithm,usesMaterial,broadband,evolutionary algorithm usesMaterial broadband,0.7931878085338152
+517,wireless communication device,usesMethod,game theory,wireless communication device usesMethod game theory,0.9127475123416312
+518,face detection,usesMaterial,e book document,face detection usesMaterial e book document,0.8267507406955497
+519,game theory,usesMaterial,encrypted data,game theory usesMaterial encrypted data,0.7161755447238233
+520,neural network,usesTask,statistical machine translation,neural network usesTask statistical machine translation,0.9494058200987694
+521,neural network,usesMaterial,hyper-spectral image,neural network usesMaterial hyper-spectral image,1.0000000000000002
+522,data compression,usesMaterial,mobile device,data compression usesMaterial mobile device,0.8497477351720919
+523,data communication,usesMethod,wearable technology,data communication usesMethod wearable technology,0.9487341564795846
+524,multiagent system,usesMaterial,capital,multiagent system usesMaterial capital,0.7181700331556538
+525,acquisition device,usesMethod,detection monitoring device,acquisition device usesMethod detection monitoring device,0.9159686105541112
+526,graphics processing unit,usesMaterial,domain knowledge,graphics processing unit usesMaterial domain knowledge,0.7600683260336445
+527,navigation system,usesTask,autonomous vehicle,navigation system usesTask autonomous vehicle,1.0000000000000002
+528,forecasts model,usesMethod,graphics processing unit,forecasts model usesMethod graphics processing unit,0.6979887746096268
+529,autonomous vehicle,usesMethod,manipulator,autonomous vehicle usesMethod manipulator,0.832239003159209
+530,deep learning,usesMaterial,human pose,deep learning usesMaterial human pose,0.7374772820458185
+531,tracking system,usesMethod,liquid crystal display,tracking system usesMethod liquid crystal display,0.8712519616949891
+532,wearable technology,usesTask,light reflection,wearable technology usesTask light reflection,0.7514341238530883
+533,sensor,usesTask,activity recognition,sensor usesTask activity recognition,1.0
+534,wearable technology,usesMaterial,color image,wearable technology usesMaterial color image,0.7945259470486904
+535,pattern recognition,usesTask,pattern recognition related task,pattern recognition usesTask pattern recognition related task,0.8831415972920323
+536,data compression,usesMaterial,sensitive information data,data compression usesMaterial sensitive information data,0.8082711087536872
+537,multiagent system,usesMaterial,uncertainty environment,multiagent system usesMaterial uncertainty environment,0.9269761885294919
+538,evolutionary algorithm,usesMaterial,training datasets,evolutionary algorithm usesMaterial training datasets,0.7569857407810746
+539,evolutionary algorithm,usesMaterial,electricity,evolutionary algorithm usesMaterial electricity,0.8105296339883571
+540,foreground detection,usesTask,autonomous vehicle,foreground detection usesTask autonomous vehicle,0.8659512666598649
+541,machine learning based approach,usesMethod,deep learning,machine learning based approach usesMethod deep learning,0.9223727309829257
+542,neural network,usesMaterial,expert knowledge,neural network usesMaterial expert knowledge,0.865379637152379
+543,machine learning,usesMethod,numerical model,machine learning usesMethod numerical model,0.8605427408048729
+544,tracking system,usesTask,pedestrian detection,tracking system usesTask pedestrian detection,0.8926432167122924
+545,multiagent system,usesMaterial,location data,multiagent system usesMaterial location data,0.7759620935833104
+546,action recognition,usesMaterial,social social medium,action recognition usesMaterial social social medium,0.7139243293259013
+547,face detection,usesMaterial,low resolution image,face detection usesMaterial low resolution image,0.9999999999999998
+548,deep learning,usesMethod,deep learning based approach,deep learning usesMethod deep learning based approach,0.932320555865664
+549,evolutionary algorithm,usesMaterial,smart phone,evolutionary algorithm usesMaterial smart phone,0.7645921192081906
+550,communications system,usesTask,data compression,communications system usesTask data compression,0.9084316548580202
+551,multiagent system,usesTask,power management,multiagent system usesTask power management,0.8104318408378076
+552,graphics processing unit,usesMaterial,reference image,graphics processing unit usesMaterial reference image,0.9353883514626798
+553,evolutionary algorithm,usesTask,user association,evolutionary algorithm usesTask user association,0.7946890795639636
+554,decision support system,usesTask,information extraction,decision support system usesTask information extraction,0.8808671712036537
+555,autonomous vehicle,usesMaterial,browser web page,autonomous vehicle usesMaterial browser web page,0.6046267706042899
+556,thresholding,usesMethod,evolutionary algorithm,thresholding usesMethod evolutionary algorithm,0.9102103609699539
+557,tracking system,usesTask,motion analysis,tracking system usesTask motion analysis,0.8763390440385044
+558,game theory,usesMethod,prefetching,game theory usesMethod prefetching,0.8262785144584047
+559,data compression,usesMethod,cam,data compression usesMethod cam,0.8605320415482585
+560,tracking system,usesMaterial,stereo camera,tracking system usesMaterial stereo camera,0.8826663320444719
+561,decision support system,usesMethod,sensitivity analysis,decision support system usesMethod sensitivity analysis,0.903309513280423
+562,deep learning,usesTask,bearing fault diagnosis,deep learning usesTask bearing fault diagnosis,0.9999999999999998
+563,tracking system,usesMethod,dry battery,tracking system usesMethod dry battery,0.8460071529325991
+564,decision support system,usesMaterial,raw data set a,decision support system usesMaterial raw data set a,0.8827480808951454
+565,variable selection,usesTask,sentiment analysis,variable selection usesTask sentiment analysis,0.9771977718110728
+566,autonomous vehicle,usesMaterial,document image,autonomous vehicle usesMaterial document image,0.7515287442241472
+567,autonomous vehicle,usesMaterial,wireless medium,autonomous vehicle usesMaterial wireless medium,0.8619525827472372
+568,neural network,usesTask,activation,neural network usesTask activation,1.0
+569,action recognition,usesTask,medical image analysis,action recognition usesTask medical image analysis,0.8147480572405186
+570,deep learning,usesMethod,classification algorithm,deep learning usesMethod classification algorithm,0.9247416165563996
+571,multiplexing,usesMethod,wearable technology,multiplexing usesMethod wearable technology,0.7383375246558954
+572,tracking system,usesMethod,fuzzy logic controller,tracking system usesMethod fuzzy logic controller,0.8666935605951158
+573,acquisition device,usesMaterial,integrated data,acquisition device usesMaterial integrated data,0.879815082013554
+574,acquisition device,usesTask,feature recognition,acquisition device usesTask feature recognition,0.8145156463083569
+575,acquisition device,usesTask,sensor technology and application,acquisition device usesTask sensor technology and application,0.8476308290531274
+576,artificial intelligence,usesTask,student learning,artificial intelligence usesTask student learning,0.8242133952084666
+577,deep learning,usesMethod,extended kalman filter,deep learning usesMethod extended kalman filter,0.8378436045923002
+578,decision support system,usesMaterial,integrated data,decision support system usesMaterial integrated data,0.8405879611664269
+579,evolutionary algorithm,usesMaterial,clock signal,evolutionary algorithm usesMaterial clock signal,0.7692235543518814
+580,sensor,usesTask,smart home,sensor usesTask smart home,0.9182708758809615
+581,efficiency,usesMethod,multiagent system,efficiency usesMethod multiagent system,0.8349337750331035
+582,computational efficiency,usesMethod,evolutionary algorithm,computational efficiency usesMethod evolutionary algorithm,0.916203577425925
+583,unsupervised learning,usesMethod,decision support system,unsupervised learning usesMethod decision support system,0.7609496418581551
+584,wearable technology,usesMaterial,keyboard,wearable technology usesMaterial keyboard,0.8480446536016502
+585,acquisition device,usesMaterial,signal line,acquisition device usesMaterial signal line,0.7970300562933341
+586,evolutionary algorithm,usesTask,shortterm load forecasting,evolutionary algorithm usesTask shortterm load forecasting,0.9371740032496976
+587,evolutionary algorithm,usesMaterial,frequency domain,evolutionary algorithm usesMaterial frequency domain,0.8115078544508997
+588,evolutionary algorithm,usesTask,calculating processing time,evolutionary algorithm usesTask calculating processing time,0.7894181591747668
+589,game theory,usesTask,validation,game theory usesTask validation,0.8548411705497172
+590,routing protocol,usesMethod,evolutionary algorithm,routing protocol usesMethod evolutionary algorithm,0.9164432036127806
+591,pattern recognition,usesMethod,navigation system,pattern recognition usesMethod navigation system,0.7183873080244484
+592,computational complexity,usesTask,image analysis,computational complexity usesTask image analysis,0.8905449161182637
+593,decision support system,usesMethod,monte carlo analysis,decision support system usesMethod monte carlo analysis,0.8250000684974829
+594,face detection,usesTask,detection speed up,face detection usesTask detection speed up,0.9085336279365621
+595,deep learning,usesMaterial,unstructured data,deep learning usesMaterial unstructured data,0.7635502553932061
+596,pattern recognition,usesMethod,steganography,pattern recognition usesMethod steganography,0.8128667833225875
+597,wearable technology,usesTask,computer vision,wearable technology usesTask computer vision,0.8355606520428047
+598,sentiment analysis,usesMaterial,twitter data set,sentiment analysis usesMaterial twitter data set,1.0
+599,decision support system,usesTask,risk management,decision support system usesTask risk management,0.8985788961913636
